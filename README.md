@@ -13,6 +13,20 @@ College Quora aims to provide a space where users can share their knowledge and 
 3. Home Page for providing various options as well as a catalogue of question categories.
 4. Database for collecting and storing users' and their posts' information.
 
+# Tech Stack
+1. Frontend:
+   i) HTML
+   ii) CSS 
+   iii) Bootstrap
+   iv) Javascript
+
+2. Backend:
+   i) Javascript
+   ii) PHP
+
+3. Database:
+   i) PostgreSQL
+
 # Data Flow
 
 
